@@ -2,4 +2,3 @@ baseURL = 'https://ciphercharly.github.io/anarres/'
 languageCode = 'en-us'
 title = 'γλαὺξ ἵπταται'
 theme = 'ananke'
-enableRobotsTXT = true
