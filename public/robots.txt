@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://ciphercharly.github.io/sitemap.xml
+Disallow: /
