@@ -38,7 +38,7 @@ jobs:
         run: |
           git clone https://github.com/marcus0x62/quixotic
           cd quixotic
-          cargo build
+          cargo build --release
           cargo install --path . --bin quixotic          
       - name: Install Hugo CLI
         run: |
