@@ -1,6 +1,6 @@
 +++
 date = '2025-03-19T19:10:10+01:00'
-draft = true
+draft = false
 title = 'Letter from a Palestinian Political Prisoner in Louisiana, dictated over the phone from ICE Detention, March 18 2025'
 +++
 My name is Mahmoud Khalil and I am a political prisoner. I am writing to you from a detention facility in Louisiana where I wake to cold mornings and spend long days bearing witness to the quiet injustices underway against a great many people precluded from the protections of the law.
